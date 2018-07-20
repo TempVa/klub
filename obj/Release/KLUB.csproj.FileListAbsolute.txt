@@ -1,0 +1,15 @@
+C:\Users\innopolis\source\repos\KLUB\KLUB\bin\Release\KLUB.exe.config
+C:\Users\innopolis\source\repos\KLUB\KLUB\bin\Release\KLUB.exe
+C:\Users\innopolis\source\repos\KLUB\KLUB\bin\Release\KLUB.pdb
+C:\Users\innopolis\source\repos\KLUB\KLUB\obj\Release\KLUB.csprojAssemblyReference.cache
+C:\Users\innopolis\source\repos\KLUB\KLUB\obj\Release\KLUBView.g.cs
+C:\Users\innopolis\source\repos\KLUB\KLUB\obj\Release\App.g.cs
+C:\Users\innopolis\source\repos\KLUB\KLUB\obj\Release\KLUB_MarkupCompile.cache
+C:\Users\innopolis\source\repos\KLUB\KLUB\obj\Release\KLUB_MarkupCompile.lref
+C:\Users\innopolis\source\repos\KLUB\KLUB\obj\Release\KLUBView.baml
+C:\Users\innopolis\source\repos\KLUB\KLUB\obj\Release\KLUB.g.resources
+C:\Users\innopolis\source\repos\KLUB\KLUB\obj\Release\KLUB.Properties.Resources.resources
+C:\Users\innopolis\source\repos\KLUB\KLUB\obj\Release\KLUB.csproj.GenerateResource.cache
+C:\Users\innopolis\source\repos\KLUB\KLUB\obj\Release\KLUB.csproj.CoreCompileInputs.cache
+C:\Users\innopolis\source\repos\KLUB\KLUB\obj\Release\KLUB.exe
+C:\Users\innopolis\source\repos\KLUB\KLUB\obj\Release\KLUB.pdb
